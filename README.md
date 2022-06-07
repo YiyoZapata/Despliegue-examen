@@ -76,7 +76,7 @@ Asi queda la aplicación corriendo con docker-compose.
 
 Link de mi dockerhub :
 
-https://hub.docker.com/repositories
+https://hub.docker.com/repository/docker/yiyozapata/9-jdk16-openjdk
 
 
 
