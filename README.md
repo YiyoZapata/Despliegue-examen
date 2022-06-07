@@ -66,6 +66,11 @@ Ultimo paso: docker push yiyozapata/nombre imagen.
 
 ![Captura de pantalla de 2022-06-07 21-15-26](https://user-images.githubusercontent.com/100800688/172463888-41eeb7cf-638a-42f1-9f3a-6c0b2c64ef80.png)
 
+Asi queda la aplicación corriendo con docker-compose.
+
+![Captura de pantalla de 2022-06-07 21-21-59](https://user-images.githubusercontent.com/100800688/172465075-52ec7333-079e-41b7-a7b2-5047afdf06b1.png)
+
+
 
 ## Anexo
 
